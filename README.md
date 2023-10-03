@@ -6,5 +6,5 @@ I take pride in ensuring that information is correct, complete and comprehensibl
 
 ### Projects of mine to check out:
 
-* [nparty: an n-party-preferred analysis tool for Australian Senate ballot](https://github.com/alexjago/nparty)
+* [nparty: an n-party-preferred analysis tool for Australian Senate ballots](https://github.com/alexjago/nparty)
 * [fluvial: a transit patronage visualiser](https://github.com/alexjago/fluvial)
